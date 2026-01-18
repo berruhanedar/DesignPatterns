@@ -19,7 +19,6 @@ public class EmployeeUtil {
         employees.add(john);
 
         return employees;
-
     }
 
     public static Map<String, Employee> getEmployeesWithUsernameMap() {

@@ -11,6 +11,5 @@ public class App {
         } catch (IllegalAccessException e) {
             System.out.println("You can't access the company's Turnover");
         }
-
     }
 }

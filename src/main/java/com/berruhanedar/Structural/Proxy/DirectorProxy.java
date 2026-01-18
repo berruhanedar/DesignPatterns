@@ -27,7 +27,6 @@ public class DirectorProxy implements CompanyInformation {
         return isUserDirector;
     }
 
-
     @Override
     public BigDecimal getTurnover() throws IllegalAccessException {
         if(isUserDirector()) {
