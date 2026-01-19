@@ -1,6 +1,6 @@
 package com.berruhanedar.Behavioral.ClassPatterns.ChainOfResponsibility;
 
-public class BhShippingCompany {
+public class BhShippingCompany { // Zincirin halkalarını kuran sınıf
 
     public static ShippingCompany getNextShippingCompany() {
         CankiriBranch cankiriBranch = new CankiriBranch();
