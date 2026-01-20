@@ -27,6 +27,7 @@ public class Booklet {
         this.bookletName = bookletName;
     }
 
+    // Arrays do not provide an iterator, so we create a custom iterator to follow the Iterator pattern and hide the traversal logic.
     public QuestionIterator getQuestionIterator() {
         return new QuestionIterator(questions);
     }

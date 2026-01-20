@@ -27,6 +27,7 @@ public class Book {
         this.name = name;
     }
 
+    // List already provides an iterator, we can use it directly.
     public Iterator getQuestionIteraion() { // !!! IMPORTANT
         return questionList.iterator();
     }
