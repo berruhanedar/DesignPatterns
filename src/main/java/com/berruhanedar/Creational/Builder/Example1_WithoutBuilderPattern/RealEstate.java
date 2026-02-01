@@ -1,4 +1,4 @@
-package com.berruhanedar.Creational.Builder.Example1;
+package com.berruhanedar.Creational.Builder.Example1_WithoutBuilderPattern;
 
 public class RealEstate {
     public static void main(String[] args) {
@@ -19,6 +19,7 @@ public class RealEstate {
         printHome(home2);
     }
 
+    // Even if you don't set anything, default values will be used.
     private static void printHome(Home home) {
         System.out.println();
         System.out.println("Home added : " + home);
