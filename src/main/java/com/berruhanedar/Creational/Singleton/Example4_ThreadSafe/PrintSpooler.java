@@ -1,7 +1,7 @@
 package com.berruhanedar.Creational.Singleton.Example4_ThreadSafe;
 
 public class PrintSpooler {
-    // Eager Loading
+    // Eager  Loading
     private static final PrintSpooler spooler = new  PrintSpooler();
 
     private static boolean initalized = false;
