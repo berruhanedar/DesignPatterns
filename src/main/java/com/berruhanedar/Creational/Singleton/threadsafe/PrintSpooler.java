@@ -1,4 +1,4 @@
-package com.berruhanedar.Creational.Singleton.Example4_ThreadSafe;
+package com.berruhanedar.Creational.Singleton.threadsafe;
 
 public class PrintSpooler {
     // Eager  Loading

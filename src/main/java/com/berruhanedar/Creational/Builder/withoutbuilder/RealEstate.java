@@ -1,4 +1,4 @@
-package com.berruhanedar.Creational.Builder.Example1_WithoutBuilderPattern;
+package com.berruhanedar.Creational.Builder.withoutbuilder;
 
 public class RealEstate {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.berruhanedar.Creational.Singleton.Example1;
+package com.berruhanedar.Creational.Singleton.basic;
 
 public class App {
     public static void main(String[] args) {

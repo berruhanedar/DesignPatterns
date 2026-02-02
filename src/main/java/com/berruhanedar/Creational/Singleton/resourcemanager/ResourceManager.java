@@ -1,4 +1,4 @@
-package com.berruhanedar.Creational.Singleton.Example3;
+package com.berruhanedar.Creational.Singleton.resourcemanager;
 
 public class ResourceManager {
     public static void main(String[] args) {

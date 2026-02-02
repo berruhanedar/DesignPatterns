@@ -1,4 +1,4 @@
-package com.berruhanedar.Creational.Builder.Example2_ApplyBuilderPattern;
+package com.berruhanedar.Creational.Builder.withbuilder;
 
 public class Home {
     private String city;

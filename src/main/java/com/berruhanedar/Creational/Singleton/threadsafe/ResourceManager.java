@@ -1,4 +1,4 @@
-package com.berruhanedar.Creational.Singleton.Example4_ThreadSafe;
+package com.berruhanedar.Creational.Singleton.threadsafe;
 
 public class ResourceManager {
     public static void main(String[] args) {

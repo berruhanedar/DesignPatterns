@@ -1,4 +1,4 @@
-package com.berruhanedar.Creational.Singleton.Example2_MultiThreading_LazyLoading;
+package com.berruhanedar.Creational.Singleton.lazyloading_and_multithreading;
 
 public class App {
     public static void main(String[] args) {
