@@ -1,4 +1,4 @@
-package com.berruhanedar.Structural.Adapter.example1;
+package com.berruhanedar.Structural.Adapter;
 
 public class App {
     public static void main(String[] args) {
