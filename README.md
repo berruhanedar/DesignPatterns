@@ -31,7 +31,7 @@ This repository includes:
 ┃ ┗ 📂 Singleton
 ┣ 📂 Structural
 ┃ ┣ 📂 ClassPatterns
-┃ ┃ ┣ 📂 Mediator
+┃ ┃ ┗ 📂 Mediator
 ┃ ┣ 📂 ObjectPatterns
 ┃ ┃ ┣ 📂 ChainOfResponsibility
 ┃ ┃ ┣ 📂 Command
@@ -41,10 +41,8 @@ This repository includes:
 ┃ ┃ ┣ 📂 Strategy
 ┃ ┃ ┗ 📂 TemplateMethod
 ┗ 📂 Behavioral
-┗ 📂 SingletonDesignPattern (example)
+┃ ┗ 📂 SingletonDesignPattern (example)
 
-yaml
-Kodu kopyala
 
 ---
 
