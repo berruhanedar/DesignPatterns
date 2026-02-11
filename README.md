@@ -48,6 +48,7 @@ DesignPatterns/
    ├─ Strategy/
    ├─ TemplateMethod/
    └─ Mediator/
+```
 
 ---
 
