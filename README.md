@@ -23,26 +23,31 @@ This repository includes:
 
 ## 🗂️ Project Structure
 
-📦 DesignPatterns
-┣ 📂 Creational
-┃ ┣ 📂 Builder
-┃ ┣ 📂 Factory
-┃ ┣ 📂 Prototype
-┃ ┗ 📂 Singleton
-┣ 📂 Structural
-┃ ┣ 📂 ClassPatterns
-┃ ┃ ┗ 📂 Mediator
-┃ ┣ 📂 ObjectPatterns
-┃ ┃ ┣ 📂 ChainOfResponsibility
-┃ ┃ ┣ 📂 Command
-┃ ┃ ┣ 📂 Iterator
-┃ ┃ ┣ 📂 Observer
-┃ ┃ ┣ 📂 State
-┃ ┃ ┣ 📂 Strategy
-┃ ┃ ┗ 📂 TemplateMethod
-┗ 📂 Behavioral
-┃ ┗ 📂 SingletonDesignPattern (example)
-
+```text
+DesignPatterns/
+├─ Creational/
+│  ├─ Builder/
+│  ├─ Factory/
+│  ├─ Prototype/
+│  └─ Singleton/
+│     └─ SingletonDesignPattern/  
+├─ Structural/
+│  ├─ ClassPatterns/
+│  └─ ObjectPatterns/
+│     ├─ Adapter/
+│     ├─ Composite/
+│     ├─ Decorator/
+│     ├─ Facade/
+│     └─ Proxy/
+└─ Behavioral/
+   ├─ ChainOfResponsibility/
+   ├─ Command/
+   ├─ Iterator/
+   ├─ Observer/
+   ├─ State/
+   ├─ Strategy/
+   ├─ TemplateMethod/
+   └─ Mediator/
 
 ---
 
